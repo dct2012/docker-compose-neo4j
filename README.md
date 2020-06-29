@@ -1,2 +1,2 @@
-Docker Compose CouchDB
+Docker Compose Neo4j
 ====
